@@ -1,70 +1,14 @@
-# Getting Started with Create React App
+# StairChallengers
+StairChallengers transforms your stair master workouts into a thrilling journey of competition and self-improvement. Designed specifically for gym enthusiasts who thrive on challenge, this app brings a dynamic leaderboard directly to your fingertips, encouraging users to climb higher, push harder, and surpass their limits.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Cultivating a Competitive Mindset
+StairChallengers leverages the power of competition to motivate gym-goers to exceed their expectations. By providing a platform where users can compare their performance and engage in friendly competition, it taps into the natural human desire to improve and achieve. This competitive ecosystem not only drives users to be more consistent with their gym attendance but also encourages them to push their limits during each workout.
 
-## Available Scripts
+The website design fosters a community of like-minded individuals who support and challenge each other, making the solitary exercise of using a stair master a shared, social experience. This not only cultivates a competitive mindset but also builds a sense of camaraderie and accountability among users, making fitness goals more attainable and enjoyable.
 
-In the project directory, you can run:
+Whether you're a seasoned athlete looking to maintain your competitive edge or a fitness enthusiast seeking extra motivation, StairChallengers offers a fun and engaging way to enhance your stair master experience and reach new heights in your fitness journey.
 
-### `npm start`
+## Using the website
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Issues
+If experience any issues with the tool, or would like to suggest a new feature please create an [issue on github](https://github.com/soham02/StairChallengersv2), or reach out to me on Discord (Fliipi).
