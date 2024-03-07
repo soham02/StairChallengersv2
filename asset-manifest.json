@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/StairChallengersv2/static/css/main.04ac2261.css",
-    "main.js": "/StairChallengersv2/static/js/main.c7f8ab0f.js",
+    "main.js": "/StairChallengersv2/static/js/main.9a022f8b.js",
     "static/js/453.da59860c.chunk.js": "/StairChallengersv2/static/js/453.da59860c.chunk.js",
     "index.html": "/StairChallengersv2/index.html",
     "main.04ac2261.css.map": "/StairChallengersv2/static/css/main.04ac2261.css.map",
-    "main.c7f8ab0f.js.map": "/StairChallengersv2/static/js/main.c7f8ab0f.js.map",
+    "main.9a022f8b.js.map": "/StairChallengersv2/static/js/main.9a022f8b.js.map",
     "453.da59860c.chunk.js.map": "/StairChallengersv2/static/js/453.da59860c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.04ac2261.css",
-    "static/js/main.c7f8ab0f.js"
+    "static/js/main.9a022f8b.js"
   ]
 }
