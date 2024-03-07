@@ -1,44 +1,50 @@
 export const Leaderboard = [
     {
-        name: "Shawn Hanna",
-        location: "India",
-        score : 1550,
-        img: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60",
-        dt: "2024-03-3"
+        name: "Brandon",
+        time: "15:00",
+        floors: 33,
+        steps: 577,
+        burned: 165,
+        speed: 2.9,
+        heartrateaverage: 156,
+        heartratemax: 174,
+        met: 6.5,
+        watts: 178
     },
     {
-        name: "Fidel Hand",
-        location: "USA",
-        score : 2310,
-        img: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60",
-        dt: "2024-01-01"
+        name: "Quincy",
+        time: "15:02",
+        floors: 26,
+        steps: 453,
+        burned: 94,
+        speed: 2.3,
+        heartrateaverage: 158,
+        heartratemax: 161,
+        met: 4.4,
+        watts: 73
     },
     {
-        name: "Bessie Hickle",
-        location: "Chaina",
-        score : 350,
-        img: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60",
-        dt: "2024-02-17"
+        name: "Sebastine",
+        time: "10:02",
+        floors: 23,
+        steps: 406,
+        burned: 80,
+        speed: 3.1,
+        heartrateaverage: 172,
+        heartratemax: 201,
+        met: 3.5,
+        watts: 52
     },
     {
-        name: "Adella Wunsch",
-        location: "Japan",
-        score : 2100,
-        img: "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60",
-        dt: "2024-10-23"
-    },
-    {
-        name: "Clair O'Connell",
-        location: "London",
-        score : 1250,
-        img: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60",
-        dt: "2024-02-22"
-    },
-    {
-        name: "Kameron Prosacco",
-        location: "Canada",
-        score : 5250,
-        img: "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60",
-        dt: "2024-01-21"
+        name: "Soham",
+        time: "20:01",
+        floors: 36,
+        steps: 628,
+        burned: 130,
+        speed: 2.4,
+        heartrateaverage: 134,
+        heartratemax: 140,
+        met: 4.8,
+        watts: 82
     }
 ]
