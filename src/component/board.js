@@ -10,7 +10,7 @@ export default function Board() {
     <div className="board">
         <h1 className='leaderboard'>Leaderboard</h1>
         <div className="duration">
-            <button onClick={handleClick} data-id='7'>Cool Button</button>
+            <button onClick={handleClick} data-id='7'>Login</button>
         </div>
         <Profiles Leaderboard={sort(Leaderboard)}></Profiles>
     </div>
